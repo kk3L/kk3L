@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kiel Ongtengco</h1>
-<h3 align="center">A passionate 4th Year Computer Engineering Student from Philippines studied on Technological Institute of the Philippines.</h3>
+<h3 align="center">A passionate 4th Year Computer Engineering Student from Philippines studying on Technological Institute of the Philippines.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
